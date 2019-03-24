@@ -1,6 +1,14 @@
+## Slides
+
+- 
+- [Copper2019-AMG-Tutorial.pdf](Copper2019-AMG-Tutorial.pdf)
+- [Copper2019-ParMG-Tutorial.pdf](Copper2019-ParMG-Tutorial.pdf)
+
+## Notebooks
+
 The notebooks can be viewed at [https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/](https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/)
 
-Multigrid:
+### Multigrid:
 
 - [1-relaxation-and-modes.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/1-relaxation-and-modes.ipynb)
 - [2-MGtwolevel.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/2-MGtwolevel.ipynb)
@@ -16,7 +24,7 @@ Multigrid:
 - [Relaxation-on-smooth-and-non-smooth-error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-on-smooth-and-non-smooth-error.ipynb)
 - [Relaxation.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation.ipynb)
 
-Algebraic Multigrid:
+### Algebraic Multigrid:
 
 - [0-multigrid-in-2d.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/algebraic-multigrid/0-multigrid-in-2d.ipynb)
 - [1-AMG-coarse-mesh-example.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/algebraic-multigrid/1-AMG-coarse-mesh-example.ipynb)
