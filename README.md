@@ -3,19 +3,18 @@ The notebooks can be viewed at [https://colab.research.google.com/github/copper-
 Multigrid:
 
 - [1-relaxation-and-modes.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/1-relaxation-and-modes.ipynb)
-- [Coarse Modes.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Coarse Modes.ipynb)
-- [Error vs Solution.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Error vs Solution.ipynb)
-- [Interpolation 1D.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Interpolation 1D.ipynb)
+- [Coarse-Modes.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Coarse-Modes.ipynb)
+- [Error-vs-Solution.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Error-vs-Solution.ipynb)
+- [Interpolation-1D.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Interpolation-1D.ipynb)
 - [MGtwolevel.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/MGtwolevel.ipynb)
-- [Multigrid Two Grid Cycle.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid Two Grid Cycle.ipynb)
-- [Multigrid V-cycle.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid V-cycle.ipynb)
-- [Multigrid in 2D.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid in 2D.ipynb)
-- [Multigrid with Variable Spacing.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid with Variable Spacing.ipynb)
-- [Nested Iteration.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Nested Iteration.ipynb)
-- [Relaxation and omega.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation and omega.ipynb)
-- [Relaxation on smooth and non-smooth error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation on smooth and non-smooth error.ipynb)
+- [Multigrid-Two-Grid-Cycle.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid-Two-Grid-Cycle.ipynb)
+- [Multigrid-V-cycle.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid-V-cycle.ipynb)
+- [Multigrid-in-2D.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid-in-2D.ipynb)
+- [Multigrid-with-Variable-Spacing.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid-with-Variable-Spacing.ipynb)
+- [Nested-Iteration.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Nested-Iteration.ipynb)
+- [Relaxation-and-omega.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-and-omega.ipynb)
+- [Relaxation-on-smooth-and-non-smooth error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-on-smooth-and-non-smooth error.ipynb)
 - [Relaxation.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation.ipynb)
-
 
 Algebraic Multigrid:
 
