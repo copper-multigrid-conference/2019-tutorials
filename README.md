@@ -13,7 +13,7 @@ Multigrid:
 - [Multigrid-with-Variable-Spacing.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Multigrid-with-Variable-Spacing.ipynb)
 - [Nested-Iteration.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Nested-Iteration.ipynb)
 - [Relaxation-and-omega.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-and-omega.ipynb)
-- [Relaxation-on-smooth-and-non-smooth error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-on-smooth-and-non-smooth error.ipynb)
+- [Relaxation-on-smooth-and-non-smooth-error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-on-smooth-and-non-smooth error.ipynb)
 - [Relaxation.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation.ipynb)
 
 Algebraic Multigrid:
