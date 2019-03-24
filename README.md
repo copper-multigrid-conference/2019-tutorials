@@ -16,6 +16,7 @@ Multigrid:
 - [Relaxation-on-smooth-and-non-smooth-error.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation-on-smooth-and-non-smooth-error.ipynb)
 - [Relaxation.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/multigrid/Relaxation.ipynb)
 
+Algebraic Multigrid:
 
 - [0-multigrid-in-2d.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/algebraic-multigrid/0-multigrid-in-2d.ipynb)
 - [1-AMG-coarse-mesh-example.ipynb]( https://colab.research.google.com/github/copper-multigrid-conference/2019-tutorials/blob/master/algebraic-multigrid/1-AMG-coarse-mesh-example.ipynb)
